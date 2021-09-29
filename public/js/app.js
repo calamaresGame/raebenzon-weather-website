@@ -1,4 +1,4 @@
-console.log('Client side javacript file is loaded!')
+
 
 
 // fetch('http://localhost:3000/weather?address=input').then ((response) => {
